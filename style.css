@@ -2,3 +2,10 @@
     margin: 0px;
     padding: 0px;
 }
+
+.container {
+    background-color: aliceblue;
+    width: 970px;  
+    min-height: 900px;
+    border: 1px black solid;
+}
